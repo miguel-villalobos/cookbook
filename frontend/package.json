@@ -53,7 +53,11 @@
     "babel-preset-es2015": "^6.2.0",
     "material-ui":"^0.15.4",
     "react-tap-event-plugin":"^1.0.0",
+<<<<<<< HEAD
     "jquery":"^3.1.0"
+=======
+    "bunyan":"^1.8.1"
+>>>>>>> ab8f03a72982fb20d70dd09b8827b633e75dc3d3
   },
   "scripts": {
     "build": "gulp",
